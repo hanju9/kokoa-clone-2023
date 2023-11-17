@@ -76,3 +76,11 @@
   font-size: 32px;
   color: white;
 }
+
+.more-screen .logout {
+  display: flex;
+  height: 100px;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
